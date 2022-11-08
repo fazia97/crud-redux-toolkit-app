@@ -1,0 +1,35 @@
+.App h1{
+  background-color: #000;
+  color:white;
+  padding:10px;
+}
+.form input, .form button{
+  width:200px;
+  height:40px;
+  border-radius:2px;
+  margin:2px;
+  padding:5px;
+  border:1px solid #888
+}
+body{
+  background-color: #f6f6f6;
+  font-family: 'Courier New', Courier, monospace;
+  text-align: center;
+}
+.form button{
+  font-size: 20px;
+  font-weight: bold;
+  cursor:pointer;
+}
+.post{
+  width:60%;
+  background-color: #fff;
+  border:1px solid #666;
+  padding:10px;
+  margin:5px auto;
+}
+.post button{
+  width:150px;
+  margin:5px;
+  font-weight: bold;
+}
